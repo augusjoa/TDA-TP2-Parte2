@@ -1,0 +1,13 @@
+Carlos Benítez,0,45
+Agustina Romero,10,36
+Ricardo Buendia,13,45
+Julieta Sánchez,17,60
+Pedro González,20,63
+Johnatan García,25,20
+Rocio Blanco,31,49
+Tomas Gallego,35,55
+Carlos Benítez,40,40
+María Bravo,40,50
+Sofía Moreno,60,90
+Ricardo Buendia,62,20
+Lorenzo Vera,68,50
