@@ -39,11 +39,6 @@ def guardar_sospechosos(visitas, duracion_robo, archivo):
 
 def detectar_sospechosos(entradas, salidas, archivo = "sospechosos.txt"):
     """Detecta grupos de sospechosos dada una lista de entrada ordenada y una de salida ordenada del recinto"""
-    for v in entradas:
-        print(v.get_nombre())
-    print("-----------------")
-    for v in salidas:
-        print(v.get_nombre())
     visitas = []
     contador_entrada = 0
     contador_salida = 0
